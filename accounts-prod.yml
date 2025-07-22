@@ -2,7 +2,7 @@ build:
   version: "1.0.0"
 
 accounts:
-  message: "Welcome to EliteInvest Accounts related Prod APIs"
+  message: "Welcome to EliteInvest Accounts related Production APIs"
   contactDetails:
     name: "Raveesha Weerasinghe - Product Owner"
     email: "{cipher}245dbdfb3b02a6b45015eab2b76e2dce0190ccf73ec3c52f4818c7286d08e03ea5e401cca9c5636dfa50ae5e4e220a8b7276f594183c1d809aa405e40c3cf835"
