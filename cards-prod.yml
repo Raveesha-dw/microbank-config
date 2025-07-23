@@ -5,7 +5,7 @@ build:
 cards:
   message: "Welcome to EliteInvest Cards related Production APIs"
   contactDetails:
-    name: "Raveesha Weerasinghe - Developer"
+    name: "Raveesha Weerasinghe - Product Owner"
     email: "raveesha.weerasinghe22@gmail.com"
   onCallSupport:
     - (666) 345-8765
