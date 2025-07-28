@@ -3,7 +3,7 @@ build:
   version: "1.0.0"
 
 cards:
-  message: "Welcome to EliteInvest Cards related Prod APIs"
+  message: "Welcome to EliteInvest Cards related Docker Prod APIs"
   contactDetails:
     name: "Raveesha Weerasinghe - Product Owner"
     email: "raveesha.weerasinghe22@gmail.com"
